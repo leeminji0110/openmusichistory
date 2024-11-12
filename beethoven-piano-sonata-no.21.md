@@ -96,3 +96,5 @@ The "Waldstein" Sonata is a stunning demonstration of Beethoven’s genius, mark
 That's cool. 
 
 It's a great textbook.
+
+Comments: It's well made to make it easy to see at a glance.
